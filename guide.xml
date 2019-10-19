@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NBR">
+    <display-name lang="pt">NBR</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="IDEAL TV">
+    <display-name lang="pt">IDEAL TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede Brasil">
+    <display-name lang="pt">Rede Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede CNT">
+    <display-name lang="pt">Rede CNT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RBI TV">
+    <display-name lang="pt">RBI TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Aparecida">
+    <display-name lang="pt">Aparecida</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Cultura">
+    <display-name lang="pt">TV Cultura</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Polishop">
+    <display-name lang="pt">Polishop</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="OFF">
+    <display-name lang="pt">OFF</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
