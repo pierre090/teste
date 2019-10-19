@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E [Brazil]">
+    <display-name lang="pt">A&amp;E [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Amazon Sat [Brazil]">
+    <display-name lang="pt">Amazon Sat [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC [Brazil]">
+    <display-name lang="pt">AMC [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet [Brazil]">
+    <display-name lang="pt">Animal Planet [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 [Brazil]">
+    <display-name lang="pt">Arte 1 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN [Brazil]">
+    <display-name lang="pt">AXN [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD [Brazil]">
+    <display-name lang="pt">AXN HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Baby TV [Brazil]">
+    <display-name lang="pt">Baby TV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News [Brazil]">
+    <display-name lang="pt">Band News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Rede [Brazil]">
+    <display-name lang="pt">Band Rede [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports [Brazil]">
+    <display-name lang="pt">Band Sports [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BBC Earth [Brazil]">
+    <display-name lang="pt">BBC Earth [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BBC World News [Brazil]">
+    <display-name lang="pt">BBC World News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Bis HD [Brazil]">
+    <display-name lang="pt">Bis HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Bloomberg [Brazil]">
+    <display-name lang="pt">Bloomberg [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang [Brazil]">
+    <display-name lang="pt">Boomerang [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal 21 [Brazil]">
+    <display-name lang="pt">Canal 21 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil [Brazil]">
+    <display-name lang="pt">Canal Brasil [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi [Brazil]">
+    <display-name lang="pt">Canal do Boi [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Rural [Brazil]">
+    <display-name lang="pt">Canal Rural [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canção Nova [Brazil]">
+    <display-name lang="pt">Canção Nova [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network [Brazil]">
+    <display-name lang="pt">Cartoon Network [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Casa Club TV [Brazil]">
+    <display-name lang="pt">Casa Club TV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax [Brazil]">
+    <display-name lang="pt">Cinemax [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Climatempo [Brazil]">
+    <display-name lang="pt">Climatempo [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Espanhol [Brazil]">
+    <display-name lang="pt">CNN Espanhol [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN International [Brazil]">
+    <display-name lang="pt">CNN International [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNT [Brazil]">
+    <display-name lang="pt">CNT [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate [Brazil]">
+    <display-name lang="pt">Combate [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central [Brazil]">
+    <display-name lang="pt">Comedy Central [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Concert Channel [Brazil]">
+    <display-name lang="pt">Concert Channel [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Deutsche Welle [Brazil]">
+    <display-name lang="pt">Deutsche Welle [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel [Brazil]">
+    <display-name lang="pt">Discovery Channel [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Civilization [Brazil]">
+    <display-name lang="pt">Discovery Civilization [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery HD Theater [Brazil]">
+    <display-name lang="pt">Discovery HD Theater [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health [Brazil]">
+    <display-name lang="pt">Discovery Home &amp; Health [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids [Brazil]">
+    <display-name lang="pt">Discovery Kids [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science [Brazil]">
+    <display-name lang="pt">Discovery Science [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo [Brazil]">
+    <display-name lang="pt">Discovery Turbo [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel [Brazil]">
+    <display-name lang="pt">Disney Channel [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel HD [Brazil]">
+    <display-name lang="pt">Disney Channel HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior [Brazil]">
+    <display-name lang="pt">Disney Junior [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD [Brazil]">
+    <display-name lang="pt">Disney XD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! Entertainment Television [Brazil]">
+    <display-name lang="pt">E! Entertainment Television [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Maxx [Brazil]">
+    <display-name lang="pt">EI Maxx [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Maxx HD [Brazil]">
+    <display-name lang="pt">EI Maxx HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN [Brazil]">
+    <display-name lang="pt">ESPN [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Brasil [Brazil]">
+    <display-name lang="pt">ESPN Brasil [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN  HD [Brazil]">
+    <display-name lang="pt">ESPN  HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo [Brazil]">
+    <display-name lang="pt">Esporte Interativo [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo Max 2 [Brazil]">
+    <display-name lang="pt">Esporte Interativo Max 2 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo Max 2 HD [Brazil]">
+    <display-name lang="pt">Esporte Interativo Max 2 HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Eurochannel [Brazil]">
+    <display-name lang="pt">Eurochannel [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Film &amp; Arts [Brazil]">
+    <display-name lang="pt">Film &amp; Arts [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox [Brazil]">
+    <display-name lang="pt">Fox [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Life [Brazil]">
+    <display-name lang="pt">Fox Life [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox News [Brazil]">
+    <display-name lang="pt">Fox News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports [Brazil]">
+    <display-name lang="pt">Fox Sports [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 [Brazil]">
+    <display-name lang="pt">Fox Sports 2 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura [Brazil]">
+    <display-name lang="pt">Futura [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX [Brazil]">
+    <display-name lang="pt">FX [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Glitz* [Brazil]">
+    <display-name lang="pt">Glitz* [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - Brasilia [Brazil]">
+    <display-name lang="pt">Globo - Brasilia [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - EPTV Campinas [Brazil]">
+    <display-name lang="pt">Globo - EPTV Campinas [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - EPTV Ribeirão Preto [Brazil]">
+    <display-name lang="pt">Globo - EPTV Ribeirão Preto [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - Minas Gerais [Brazil]">
+    <display-name lang="pt">Globo - Minas Gerais [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - RBS [Brazil]">
+    <display-name lang="pt">Globo - RBS [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - RJ [Brazil]">
+    <display-name lang="pt">Globo - RJ [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - SP [Brazil]">
+    <display-name lang="pt">Globo - SP [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - TV Anhanguera Goiás [Brazil]">
+    <display-name lang="pt">Globo - TV Anhanguera Goiás [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - TV Bahia [Brazil]">
+    <display-name lang="pt">Globo - TV Bahia [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News [Brazil]">
+    <display-name lang="pt">Globo News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob [Brazil]">
+    <display-name lang="pt">Gloob [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT [Brazil]">
+    <display-name lang="pt">GNT [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 [Brazil]">
+    <display-name lang="pt">H2 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 HD [Brazil]">
+    <display-name lang="pt">H2 HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO [Brazil]">
+    <display-name lang="pt">HBO [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 [Brazil]">
+    <display-name lang="pt">HBO 2 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family [Brazil]">
+    <display-name lang="pt">HBO Family [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus [Brazil]">
+    <display-name lang="pt">HBO Plus [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
